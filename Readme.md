@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to bind the detail GridView to data based on the end-user input
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e374)**
+<!-- run online end -->
 
 
 <p>This example implements the delayed binding for the Detail ASPxGridView<br />
